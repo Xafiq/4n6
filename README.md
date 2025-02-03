@@ -39,35 +39,15 @@ ForensiX is a cutting-edge digital forensics analysis tool designed to automate 
 sudo ./4n6.sh
 ```
 
+![alt text](assets/preview.jpg)
+
+
 ## 📊 Report Types
 - **Full Analysis Report**: Comprehensive report covering all aspects of the analysis.
 - **Security Incident Report**: Focused on security-related findings and recommendations.
 - **Recovery Plan**: Provides a plan for system recovery and mitigation.
 - **Executive Presentation**: High-level summary suitable for executive stakeholders.
 
-## 📦 Dependencies
-The script requires the following tools:
-- awk
-grep
-sed
-df
-lscpu
-lshw
-dmidecode
-free
-vmstat
-lsblk
-fdisk
-uname
-chroot
-nmap
-tcpdump
-ss
-lsof
-find
-searchsploit
-metasploit
-jq
 
 ## 👨‍💻 Author
 Created by @Xafiq as part of the 4Geeks Academy Final Project 2025.
