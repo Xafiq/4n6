@@ -47,7 +47,27 @@ sudo ./forensix.sh
 
 ## 📦 Dependencies
 The script requires the following tools:
-- ...
+- awk
+grep
+sed
+df
+lscpu
+lshw
+dmidecode
+free
+vmstat
+lsblk
+fdisk
+uname
+chroot
+nmap
+tcpdump
+ss
+lsof
+find
+searchsploit
+metasploit
+jq
 
 ## 👨‍💻 Author
 Created by @Xafiq as part of the 4Geeks Academy Final Project 2025.
