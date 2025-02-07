@@ -12,7 +12,7 @@
 ╚════════════════════════════════════════════════════════╝
 ```
 
-ForensiX is a cutting-edge digital forensics analysis tool designed to automate the process of collecting and analyzing forensic evidence from a mounted device. It generates detailed reports to assist in understanding the nature and impact of security incidents. This tool is used from inside the target host using Kali Forensic Mode USB boot.
+ForensiX is a digital forensics analysis tool designed to automate the process of collecting and analyzing forensic evidence from a mounted device. It generates detailed reports to assist in understanding the nature and impact of security incidents. This tool is used from inside the target host using Kali Forensic Mode USB boot.
 
 ## 🚀 Features
 - 🔍 **Dependency Check**: Ensures all required tools are installed.

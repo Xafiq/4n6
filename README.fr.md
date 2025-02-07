@@ -12,7 +12,7 @@
 ╚════════════════════════════════════════════════════════╝
 ```
 
-ForensiX est un outil d'analyse forensique numérique de pointe conçu pour automatiser le processus de collecte et d'analyse des preuves forensiques d'un dispositif monté. Il génère des rapports détaillés pour aider à comprendre la nature et l'impact des incidents de sécurité. Cet outil est utilisé depuis l'hôte cible en utilisant le mode forensique de Kali USB boot.
+ForensiX est un outil d'analyse forensique numérique  conçu pour automatiser le processus de collecte et d'analyse des preuves forensiques d'un dispositif monté. Il génère des rapports détaillés pour aider à comprendre la nature et l'impact des incidents de sécurité. Cet outil est utilisé depuis l'hôte cible en utilisant le mode forensique de Kali USB boot.
 
 ## 🚀 Caractéristiques
 - 🔍 **Vérification des Dépendances**: Assure que tous les outils nécessaires sont installés.
